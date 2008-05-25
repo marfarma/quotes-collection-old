@@ -1,0 +1,29 @@
+/* Random quote */
+
+.quotescollection_randomquote q {
+
+}
+
+.quotescollection_randomquote cite {
+
+}
+
+
+/* Quotes page */
+blockquote.quotescollection {
+	border:0;
+	background:none;
+	padding:0;
+	margin:2em;
+	font-size:1em;
+}
+
+blockquote.quotescollection q {
+	color:#555;
+}
+
+blockquote.quotescollection cite {
+	display:inline;
+	font-size:0.83em;
+	color:#888;
+}
